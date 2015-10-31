@@ -1,0 +1,23 @@
+name: mbtc
+favicon: null
+layout_spectrum: 0.8779126480221748
+typography_spectrum: 0.313079392304644
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7872870857827365
+  lightness: 0.18428996810689569
+  saturation: 0.7387521574273705
+  rhythmicContrast: 0.9020491146948189
+purpose: []
